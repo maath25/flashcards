@@ -1,5 +1,16 @@
+body{
+    background-color: rgba(0, 132, 255, 0.473);
+    font-family: Arial, Helvetica, sans-serif;
+}
 
-<!DOCTYPE html>
+.container{
+    display: flex;
+}
+
+.cartao{
+    margin: 1rem 1rem;
+    background-color: black;
+} <!DOCTYPE html>
 <html lang="pt-br">
 <head>
     <meta charset="UTF-8">
